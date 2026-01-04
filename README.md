@@ -72,7 +72,7 @@ Senior Software Engineer with 10+ years of experience building scalable full-sta
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-zhuk&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-zhuk&layout=compact&theme=dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-zhuk&layout=compact&theme=dark&hide_border=true)
 
 ## Current Focus
 
