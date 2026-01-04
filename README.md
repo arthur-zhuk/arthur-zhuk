@@ -68,12 +68,6 @@ Senior Software Engineer with 10+ years of experience building scalable full-sta
 - ⚡ **AI-Accelerated Development:** Daily use of Cursor, Claude Code, and Wispr Flow to accelerate development and improve code quality
 - 📈 **Impact-Driven:** Focus on reducing production incidents, improving release velocity, and enhancing developer experience
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-zhuk&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-zhuk&layout=compact&theme=dark&hide_border=true)
-
 ## Current Focus
 
 - 🔭 Leading full-stack architecture at Travel Syndicate Technology
